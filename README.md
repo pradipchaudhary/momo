@@ -1,4 +1,4 @@
-# Build and Deploy a Responsive momo Website
+# Build and Deploy a Responsive Nepali Food(Momo) Website
 
 ![Sushi](https://i.ibb.co/dBxww2c/Sushi.png)
 
